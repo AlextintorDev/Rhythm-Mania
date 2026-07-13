@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cef8d13ad0a84c75d93a890487a35906, type: 3}
+  m_Name: SaveManagerSettings
+  m_EditorClassIdentifier: 
+  serializer: {fileID: 11400000, guid: 3ee42fa2acde6e4c68e433f7e744196c, type: 2}
+  encrypter: {fileID: 11400000, guid: 248f4ac094044691db4e46545cbe8fb7, type: 2}
+  storage: {fileID: 11400000, guid: ca439fa098af162af8c1429a0bba9f24, type: 2}

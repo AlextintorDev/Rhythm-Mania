@@ -1,0 +1,752 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afd406a04a4630645838e01917dc69d0, type: 3}
+  m_Name: 'DEAF KEV - Invincible [NCS Release]'
+  m_EditorClassIdentifier: 
+  songName: DEAF KEV - Invincible
+  songCode: DKEV
+  clip: {fileID: 8300000, guid: 290ba8c29833219b1b69b511b97c46f4, type: 3}
+  bpm: 100
+  firstBeatOffset: 0.15
+  channels:
+  - name: Waveform
+    type: 1
+    height: 75
+    isExpanded: 1
+    trackData:
+      tag: Track
+      notes: []
+  - name: Notes 1
+    type: 0
+    height: 65
+    isExpanded: 1
+    trackData:
+      tag: Notes 1
+      notes:
+      - beat: 0
+        timeSeconds: 0
+        length: 1
+      - beat: 1
+        timeSeconds: 0
+        length: 1
+      - beat: 2
+        timeSeconds: 0
+        length: 1
+      - beat: 3
+        timeSeconds: 0
+        length: 1
+      - beat: 4
+        timeSeconds: 0
+        length: 1
+      - beat: 10
+        timeSeconds: 6.15
+        length: 1
+      - beat: 19
+        timeSeconds: 0
+        length: 1
+      - beat: 19.5
+        timeSeconds: 0
+        length: 1
+      - beat: 27
+        timeSeconds: 0
+        length: 1
+      - beat: 27.5
+        timeSeconds: 0
+        length: 1
+      - beat: 35
+        timeSeconds: 0
+        length: 1
+      - beat: 35.5
+        timeSeconds: 0
+        length: 1
+      - beat: 36.5
+        timeSeconds: 0
+        length: 1
+      - beat: 42
+        timeSeconds: 0
+        length: 1
+      - beat: 46
+        timeSeconds: 0
+        length: 1
+      - beat: 46.5
+        timeSeconds: 0
+        length: 1
+      - beat: 48
+        timeSeconds: 0
+        length: 1
+      - beat: 48.5
+        timeSeconds: 0
+        length: 1
+      - beat: 52.5
+        timeSeconds: 0
+        length: 1
+      - beat: 58
+        timeSeconds: 0
+        length: 1
+      - beat: 59
+        timeSeconds: 0
+        length: 1
+      - beat: 59.5
+        timeSeconds: 0
+        length: 1
+      - beat: 65
+        timeSeconds: 0
+        length: 1
+      - beat: 73
+        timeSeconds: 0
+        length: 1
+      - beat: 78.5
+        timeSeconds: 0
+        length: 1
+      - beat: 79.5
+        timeSeconds: 0
+        length: 1
+      - beat: 88
+        timeSeconds: 0
+        length: 1
+      - beat: 94
+        timeSeconds: 0
+        length: 1
+      - beat: 102
+        timeSeconds: 0
+        length: 1
+      - beat: 114
+        timeSeconds: 0
+        length: 1
+      - beat: 116
+        timeSeconds: 0
+        length: 1
+      - beat: 116.5
+        timeSeconds: 0
+        length: 1
+      - beat: 117
+        timeSeconds: 0
+        length: 1
+      - beat: 118.5
+        timeSeconds: 0
+        length: 1
+      - beat: 120.5
+        timeSeconds: 0
+        length: 1
+      - beat: 122
+        timeSeconds: 0
+        length: 1
+      - beat: 126.5
+        timeSeconds: 0
+        length: 1
+      - beat: 128.5
+        timeSeconds: 0
+        length: 1
+      - beat: 130
+        timeSeconds: 0
+        length: 1
+      - beat: 134
+        timeSeconds: 0
+        length: 1
+      - beat: 136
+        timeSeconds: 0
+        length: 1
+      - beat: 138
+        timeSeconds: 0
+        length: 1
+      - beat: 139
+        timeSeconds: 0
+        length: 1
+      - beat: 139.5
+        timeSeconds: 0
+        length: 1
+      - beat: 140
+        timeSeconds: 0
+        length: 1
+      - beat: 140.5
+        timeSeconds: 0
+        length: 1
+      - beat: 141
+        timeSeconds: 0
+        length: 1
+      - beat: 145
+        timeSeconds: 0
+        length: 1
+      - beat: 150
+        timeSeconds: 0
+        length: 1
+      - beat: 150.5
+        timeSeconds: 0
+        length: 1
+      - beat: 171
+        timeSeconds: 0
+        length: 1
+  - name: Notes 2
+    type: 0
+    height: 65
+    isExpanded: 1
+    trackData:
+      tag: Notes 2
+      notes:
+      - beat: 4.9678645
+        timeSeconds: 0
+        length: 1
+      - beat: 8.028867
+        timeSeconds: 0
+        length: 1
+      - beat: 8.998366
+        timeSeconds: 0
+        length: 1
+      - beat: 10
+        timeSeconds: 6.15
+        length: 1
+      - beat: 18
+        timeSeconds: 0
+        length: 1
+      - beat: 20
+        timeSeconds: 0
+        length: 1
+      - beat: 20.5
+        timeSeconds: 0
+        length: 1
+      - beat: 25
+        timeSeconds: 0
+        length: 1
+      - beat: 26
+        timeSeconds: 0
+        length: 1
+      - beat: 28
+        timeSeconds: 0
+        length: 1
+      - beat: 28.5
+        timeSeconds: 0
+        length: 1
+      - beat: 33
+        timeSeconds: 0
+        length: 1
+      - beat: 34
+        timeSeconds: 0
+        length: 1
+      - beat: 36
+        timeSeconds: 0
+        length: 1
+      - beat: 41
+        timeSeconds: 0
+        length: 1
+      - beat: 44
+        timeSeconds: 0
+        length: 1
+      - beat: 44.5
+        timeSeconds: 0
+        length: 1
+      - beat: 50
+        timeSeconds: 0
+        length: 1
+      - beat: 52
+        timeSeconds: 0
+        length: 1
+      - beat: 52.5
+        timeSeconds: 0
+        length: 1
+      - beat: 56
+        timeSeconds: 0
+        length: 1
+      - beat: 56.5
+        timeSeconds: 0
+        length: 1
+      - beat: 60
+        timeSeconds: 0
+        length: 1
+      - beat: 60.5
+        timeSeconds: 0
+        length: 1
+      - beat: 65.25
+        timeSeconds: 0
+        length: 1
+      - beat: 66
+        timeSeconds: 0
+        length: 1
+      - beat: 68
+        timeSeconds: 0
+        length: 1
+      - beat: 70.5
+        timeSeconds: 0
+        length: 1
+      - beat: 72.5
+        timeSeconds: 0
+        length: 1
+      - beat: 74
+        timeSeconds: 0
+        length: 1
+      - beat: 78
+        timeSeconds: 0
+        length: 1
+      - beat: 80
+        timeSeconds: 0
+        length: 1
+      - beat: 82
+        timeSeconds: 0
+        length: 1
+      - beat: 86
+        timeSeconds: 0
+        length: 1
+      - beat: 98
+        timeSeconds: 0
+        length: 1
+      - beat: 100
+        timeSeconds: 0
+        length: 1
+      - beat: 104
+        timeSeconds: 0
+        length: 1
+      - beat: 106.5
+        timeSeconds: 0
+        length: 1
+      - beat: 107.5
+        timeSeconds: 0
+        length: 1
+      - beat: 108.5
+        timeSeconds: 0
+        length: 1
+      - beat: 109.5
+        timeSeconds: 0
+        length: 1
+      - beat: 110.5
+        timeSeconds: 0
+        length: 1
+      - beat: 111.5
+        timeSeconds: 0
+        length: 1
+      - beat: 112.5
+        timeSeconds: 0
+        length: 1
+      - beat: 114
+        timeSeconds: 0
+        length: 1
+      - beat: 118
+        timeSeconds: 0
+        length: 1
+      - beat: 120
+        timeSeconds: 0
+        length: 1
+      - beat: 122
+        timeSeconds: 0
+        length: 1
+      - beat: 126
+        timeSeconds: 0
+        length: 1
+      - beat: 128
+        timeSeconds: 0
+        length: 1
+      - beat: 130
+        timeSeconds: 0
+        length: 1
+      - beat: 131
+        timeSeconds: 0
+        length: 1
+      - beat: 131.5
+        timeSeconds: 0
+        length: 1
+      - beat: 132
+        timeSeconds: 0
+        length: 1
+      - beat: 132.5
+        timeSeconds: 0
+        length: 1
+      - beat: 133
+        timeSeconds: 0
+        length: 1
+      - beat: 134.5
+        timeSeconds: 0
+        length: 1
+      - beat: 136.5
+        timeSeconds: 0
+        length: 1
+      - beat: 138
+        timeSeconds: 0
+        length: 1
+      - beat: 142
+        timeSeconds: 0
+        length: 1
+      - beat: 144.5
+        timeSeconds: 0
+        length: 1
+      - beat: 146
+        timeSeconds: 0
+        length: 1
+      - beat: 152
+        timeSeconds: 0
+        length: 1
+      - beat: 154
+        timeSeconds: 0
+        length: 1
+      - beat: 158
+        timeSeconds: 0
+        length: 1
+      - beat: 161
+        timeSeconds: 0
+        length: 1
+      - beat: 163
+        timeSeconds: 0
+        length: 1
+      - beat: 165
+        timeSeconds: 0
+        length: 1
+      - beat: 170
+        timeSeconds: 0
+        length: 1
+  - name: Notes 3
+    type: 0
+    height: 65
+    isExpanded: 1
+    trackData:
+      tag: Notes 3
+      notes:
+      - beat: 6.013616
+        timeSeconds: 0
+        length: 1
+      - beat: 11
+        timeSeconds: 6.7500005
+        length: 1
+      - beat: 12
+        timeSeconds: 0
+        length: 1
+      - beat: 13
+        timeSeconds: 0
+        length: 1
+      - beat: 14
+        timeSeconds: 0
+        length: 1
+      - beat: 18
+        timeSeconds: 0
+        length: 1
+      - beat: 23
+        timeSeconds: 0
+        length: 1
+      - beat: 23.5
+        timeSeconds: 0
+        length: 1
+      - beat: 26
+        timeSeconds: 0
+        length: 1
+      - beat: 31
+        timeSeconds: 0
+        length: 1
+      - beat: 31.5
+        timeSeconds: 0
+        length: 1
+      - beat: 34
+        timeSeconds: 0
+        length: 1
+      - beat: 39
+        timeSeconds: 0
+        length: 1
+      - beat: 41
+        timeSeconds: 0
+        length: 1
+      - beat: 44
+        timeSeconds: 0
+        length: 1
+      - beat: 44.5
+        timeSeconds: 0
+        length: 1
+      - beat: 50
+        timeSeconds: 0
+        length: 1
+      - beat: 54
+        timeSeconds: 0
+        length: 1
+      - beat: 54.5
+        timeSeconds: 0
+        length: 1
+      - beat: 56
+        timeSeconds: 0
+        length: 1
+      - beat: 56.5
+        timeSeconds: 0
+        length: 1
+      - beat: 63
+        timeSeconds: 0
+        length: 1
+      - beat: 63.5
+        timeSeconds: 0
+        length: 1
+      - beat: 66
+        timeSeconds: 0
+        length: 1
+      - beat: 68.5
+        timeSeconds: 0
+        length: 1
+      - beat: 70
+        timeSeconds: 0
+        length: 1
+      - beat: 72
+        timeSeconds: 0
+        length: 1
+      - beat: 74
+        timeSeconds: 0
+        length: 1
+      - beat: 76
+        timeSeconds: 0
+        length: 1
+      - beat: 80.5
+        timeSeconds: 0
+        length: 1
+      - beat: 82
+        timeSeconds: 0
+        length: 1
+      - beat: 92
+        timeSeconds: 0
+        length: 1
+      - beat: 96
+        timeSeconds: 0
+        length: 1
+      - beat: 98
+        timeSeconds: 0
+        length: 1
+      - beat: 100
+        timeSeconds: 0
+        length: 1
+      - beat: 104
+        timeSeconds: 0
+        length: 1
+      - beat: 106
+        timeSeconds: 0
+        length: 1
+      - beat: 107
+        timeSeconds: 0
+        length: 1
+      - beat: 108
+        timeSeconds: 0
+        length: 1
+      - beat: 109
+        timeSeconds: 0
+        length: 1
+      - beat: 110
+        timeSeconds: 0
+        length: 1
+      - beat: 111
+        timeSeconds: 0
+        length: 1
+      - beat: 112
+        timeSeconds: 0
+        length: 1
+      - beat: 114
+        timeSeconds: 0
+        length: 1
+      - beat: 118
+        timeSeconds: 0
+        length: 1
+      - beat: 120
+        timeSeconds: 0
+        length: 1
+      - beat: 122
+        timeSeconds: 0
+        length: 1
+      - beat: 126
+        timeSeconds: 0
+        length: 1
+      - beat: 128
+        timeSeconds: 0
+        length: 1
+      - beat: 130
+        timeSeconds: 0
+        length: 1
+      - beat: 134.5
+        timeSeconds: 0
+        length: 1
+      - beat: 136.5
+        timeSeconds: 0
+        length: 1
+      - beat: 138
+        timeSeconds: 0
+        length: 1
+      - beat: 142.5
+        timeSeconds: 0
+        length: 1
+      - beat: 144
+        timeSeconds: 0
+        length: 1
+      - beat: 146
+        timeSeconds: 0
+        length: 1
+      - beat: 148
+        timeSeconds: 0
+        length: 1
+      - beat: 148.5
+        timeSeconds: 0
+        length: 1
+      - beat: 152.5
+        timeSeconds: 0
+        length: 1
+      - beat: 154
+        timeSeconds: 0
+        length: 1
+      - beat: 155
+        timeSeconds: 0
+        length: 1
+      - beat: 157
+        timeSeconds: 0
+        length: 1
+      - beat: 159
+        timeSeconds: 0
+        length: 1
+      - beat: 160
+        timeSeconds: 0
+        length: 1
+      - beat: 162
+        timeSeconds: 0
+        length: 1
+      - beat: 164
+        timeSeconds: 0
+        length: 1
+      - beat: 166
+        timeSeconds: 0
+        length: 1
+      - beat: 167
+        timeSeconds: 0
+        length: 1
+      - beat: 169
+        timeSeconds: 0
+        length: 1
+  - name: Notes 4
+    type: 0
+    height: 65
+    isExpanded: 1
+    trackData:
+      tag: Notes 4
+      notes:
+      - beat: 6.9831157
+        timeSeconds: 0
+        length: 1
+      - beat: 14
+        timeSeconds: 0
+        length: 1
+      - beat: 22
+        timeSeconds: 0
+        length: 1
+      - beat: 22.5
+        timeSeconds: 0
+        length: 1
+      - beat: 30
+        timeSeconds: 0
+        length: 1
+      - beat: 30.5
+        timeSeconds: 0
+        length: 1
+      - beat: 38
+        timeSeconds: 0
+        length: 1
+      - beat: 38.5
+        timeSeconds: 0
+        length: 1
+      - beat: 39.5
+        timeSeconds: 0
+        length: 1
+      - beat: 42
+        timeSeconds: 0
+        length: 1
+      - beat: 46
+        timeSeconds: 0
+        length: 1
+      - beat: 46.5
+        timeSeconds: 0
+        length: 1
+      - beat: 48
+        timeSeconds: 0
+        length: 1
+      - beat: 48.5
+        timeSeconds: 0
+        length: 1
+      - beat: 54.5
+        timeSeconds: 0
+        length: 1
+      - beat: 58
+        timeSeconds: 0
+        length: 1
+      - beat: 62
+        timeSeconds: 0
+        length: 1
+      - beat: 62.5
+        timeSeconds: 0
+        length: 1
+      - beat: 71.5
+        timeSeconds: 0
+        length: 1
+      - beat: 76.5
+        timeSeconds: 0
+        length: 1
+      - beat: 81
+        timeSeconds: 0
+        length: 1
+      - beat: 84
+        timeSeconds: 0
+        length: 1
+      - beat: 90
+        timeSeconds: 0
+        length: 1
+      - beat: 102
+        timeSeconds: 0
+        length: 1
+      - beat: 114
+        timeSeconds: 0
+        length: 1
+      - beat: 118.5
+        timeSeconds: 0
+        length: 1
+      - beat: 120.5
+        timeSeconds: 0
+        length: 1
+      - beat: 122
+        timeSeconds: 0
+        length: 1
+      - beat: 123
+        timeSeconds: 0
+        length: 1
+      - beat: 123.5
+        timeSeconds: 0
+        length: 1
+      - beat: 124
+        timeSeconds: 0
+        length: 1
+      - beat: 124.5
+        timeSeconds: 0
+        length: 1
+      - beat: 125
+        timeSeconds: 0
+        length: 1
+      - beat: 126.5
+        timeSeconds: 0
+        length: 1
+      - beat: 128.5
+        timeSeconds: 0
+        length: 1
+      - beat: 130
+        timeSeconds: 0
+        length: 1
+      - beat: 134
+        timeSeconds: 0
+        length: 1
+      - beat: 136
+        timeSeconds: 0
+        length: 1
+      - beat: 138
+        timeSeconds: 0
+        length: 1
+      - beat: 143
+        timeSeconds: 0
+        length: 1
+      - beat: 147
+        timeSeconds: 0
+        length: 1
+      - beat: 156
+        timeSeconds: 0
+        length: 1
+      - beat: 168
+        timeSeconds: 0
+        length: 1
+  tracks: []

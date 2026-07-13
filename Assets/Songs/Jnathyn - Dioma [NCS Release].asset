@@ -1,0 +1,482 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afd406a04a4630645838e01917dc69d0, type: 3}
+  m_Name: 'Jnathyn - Dioma [NCS Release]'
+  m_EditorClassIdentifier: 
+  songName: Jnathyn - Dioma
+  songCode: JNADIO
+  clip: {fileID: 8300000, guid: 4f0a3ca463503044f848603b52adb945, type: 3}
+  bpm: 105
+  firstBeatOffset: 0
+  channels:
+  - name: Waveform
+    type: 1
+    height: 75
+    isExpanded: 1
+    trackData:
+      tag: Track
+      notes: []
+  - name: Notes 1
+    type: 0
+    height: 65
+    isExpanded: 1
+    trackData:
+      tag: Notes 1
+      notes:
+      - beat: 0.25
+        timeSeconds: 0
+        length: 1
+      - beat: 1.75
+        timeSeconds: 0
+        length: 1
+      - beat: 2.25
+        timeSeconds: 0
+        length: 1
+      - beat: 4.25
+        timeSeconds: 0
+        length: 1
+      - beat: 6.25
+        timeSeconds: 0
+        length: 1
+      - beat: 8.25
+        timeSeconds: 0
+        length: 1
+      - beat: 12.25
+        timeSeconds: 0
+        length: 1
+      - beat: 14.25
+        timeSeconds: 0
+        length: 1
+      - beat: 16.25
+        timeSeconds: 0
+        length: 1
+      - beat: 18.25
+        timeSeconds: 0
+        length: 1
+      - beat: 20.25
+        timeSeconds: 0
+        length: 1
+      - beat: 34.36067
+        timeSeconds: 0
+        length: 1
+      - beat: 36.339333
+        timeSeconds: 0
+        length: 1
+      - beat: 38.392666
+        timeSeconds: 0
+        length: 1
+      - beat: 40.40867
+        timeSeconds: 0
+        length: 1
+      - beat: 42.424667
+        timeSeconds: 0
+        length: 1
+      - beat: 44.440666
+        timeSeconds: 0
+        length: 1
+      - beat: 46.456665
+        timeSeconds: 0
+        length: 1
+      - beat: 48.435333
+        timeSeconds: 0
+        length: 1
+      - beat: 49.443333
+        timeSeconds: 0
+        length: 1
+      - beat: 50.451332
+        timeSeconds: 0
+        length: 1
+      - beat: 52.43
+        timeSeconds: 0
+        length: 1
+      - beat: 54.40867
+        timeSeconds: 0
+        length: 1
+      - beat: 56.462
+        timeSeconds: 0
+        length: 1
+      - beat: 58.478
+        timeSeconds: 0
+        length: 1
+      - beat: 60.456665
+        timeSeconds: 0
+        length: 1
+      - beat: 62.472668
+        timeSeconds: 0
+        length: 1
+      - beat: 64.56333
+        timeSeconds: 0
+        length: 1
+      - beat: 65.496666
+        timeSeconds: 0
+        length: 1
+      - beat: 66.50467
+        timeSeconds: 0
+        length: 1
+      - beat: 67.438
+        timeSeconds: 0
+        length: 1
+      - beat: 68.446
+        timeSeconds: 0
+        length: 1
+      - beat: 69.416664
+        timeSeconds: 0
+        length: 1
+      - beat: 70.462
+        timeSeconds: 0
+        length: 1
+      - beat: 71.47
+        timeSeconds: 0
+        length: 1
+      - beat: 72.44067
+        timeSeconds: 0
+        length: 1
+      - beat: 73.41133
+        timeSeconds: 0
+        length: 1
+      - beat: 74.419334
+        timeSeconds: 0
+        length: 1
+      - beat: 75.42733
+        timeSeconds: 0
+        length: 1
+  - name: Notes 2
+    type: 0
+    height: 65
+    isExpanded: 1
+    trackData:
+      tag: Notes 2
+      notes:
+      - beat: 10.25
+        timeSeconds: 0
+        length: 1
+      - beat: 12.25
+        timeSeconds: 0
+        length: 1
+      - beat: 14.25
+        timeSeconds: 0
+        length: 1
+      - beat: 16.25
+        timeSeconds: 0
+        length: 1
+      - beat: 18.25
+        timeSeconds: 10.428572
+        length: 1
+      - beat: 21.25
+        timeSeconds: 0
+        length: 1
+      - beat: 30.403334
+        timeSeconds: 0
+        length: 1
+      - beat: 35.406
+        timeSeconds: 0
+        length: 1
+      - beat: 37.384666
+        timeSeconds: 0
+        length: 1
+      - beat: 39.400665
+        timeSeconds: 0
+        length: 1
+      - beat: 41.454
+        timeSeconds: 0
+        length: 1
+      - beat: 43.47
+        timeSeconds: 0
+        length: 1
+      - beat: 45.448666
+        timeSeconds: 0
+        length: 1
+      - beat: 47.427334
+        timeSeconds: 0
+        length: 1
+      - beat: 48.435333
+        timeSeconds: 0
+        length: 1
+      - beat: 49.443333
+        timeSeconds: 0
+        length: 1
+      - beat: 51.45933
+        timeSeconds: 0
+        length: 1
+      - beat: 53.475334
+        timeSeconds: 0
+        length: 1
+      - beat: 55.454
+        timeSeconds: 0
+        length: 1
+      - beat: 57.50733
+        timeSeconds: 0
+        length: 1
+      - beat: 59.5
+        timeSeconds: 34
+        length: 1
+      - beat: 61.46467
+        timeSeconds: 0
+        length: 1
+      - beat: 63.518
+        timeSeconds: 0
+        length: 1
+      - beat: 64.526
+        timeSeconds: 0
+        length: 1
+      - beat: 65.496666
+        timeSeconds: 0
+        length: 1
+      - beat: 66.50467
+        timeSeconds: 0
+        length: 1
+      - beat: 67.438
+        timeSeconds: 0
+        length: 1
+      - beat: 68.446
+        timeSeconds: 0
+        length: 1
+      - beat: 69.416664
+        timeSeconds: 0
+        length: 1
+      - beat: 70.462
+        timeSeconds: 0
+        length: 1
+      - beat: 71.47
+        timeSeconds: 0
+        length: 1
+      - beat: 72.44067
+        timeSeconds: 0
+        length: 1
+      - beat: 73.41133
+        timeSeconds: 0
+        length: 1
+      - beat: 74.419334
+        timeSeconds: 0
+        length: 1
+      - beat: 75.42733
+        timeSeconds: 0
+        length: 1
+  - name: Notes 3
+    type: 0
+    height: 65
+    isExpanded: 1
+    trackData:
+      tag: Notes 3
+      notes:
+      - beat: 10.25
+        timeSeconds: 0
+        length: 1
+      - beat: 12.25
+        timeSeconds: 0
+        length: 1
+      - beat: 16.25
+        timeSeconds: 0
+        length: 1
+      - beat: 18.25
+        timeSeconds: 0
+        length: 1
+      - beat: 20.75
+        timeSeconds: 0
+        length: 1
+      - beat: 32.419334
+        timeSeconds: 0
+        length: 1
+      - beat: 35.443333
+        timeSeconds: 0
+        length: 1
+      - beat: 37.384666
+        timeSeconds: 0
+        length: 1
+      - beat: 39.400665
+        timeSeconds: 0
+        length: 1
+      - beat: 41.454
+        timeSeconds: 0
+        length: 1
+      - beat: 43.432667
+        timeSeconds: 0
+        length: 1
+      - beat: 45.448666
+        timeSeconds: 0
+        length: 1
+      - beat: 47.427334
+        timeSeconds: 0
+        length: 1
+      - beat: 48.435333
+        timeSeconds: 0
+        length: 1
+      - beat: 49.443333
+        timeSeconds: 0
+        length: 1
+      - beat: 51.45933
+        timeSeconds: 0
+        length: 1
+      - beat: 53.475334
+        timeSeconds: 0
+        length: 1
+      - beat: 55.454
+        timeSeconds: 0
+        length: 1
+      - beat: 57.50733
+        timeSeconds: 0
+        length: 1
+      - beat: 59.5
+        timeSeconds: 34
+        length: 1
+      - beat: 61.46467
+        timeSeconds: 0
+        length: 1
+      - beat: 63.480667
+        timeSeconds: 0
+        length: 1
+      - beat: 64.48867
+        timeSeconds: 0
+        length: 1
+      - beat: 65.496666
+        timeSeconds: 0
+        length: 1
+      - beat: 66.50467
+        timeSeconds: 0
+        length: 1
+      - beat: 67.438
+        timeSeconds: 0
+        length: 1
+      - beat: 68.446
+        timeSeconds: 0
+        length: 1
+      - beat: 69.416664
+        timeSeconds: 0
+        length: 1
+      - beat: 70.462
+        timeSeconds: 0
+        length: 1
+      - beat: 71.47
+        timeSeconds: 0
+        length: 1
+      - beat: 72.44067
+        timeSeconds: 0
+        length: 1
+      - beat: 73.41133
+        timeSeconds: 0
+        length: 1
+      - beat: 74.419334
+        timeSeconds: 0
+        length: 1
+      - beat: 75.42733
+        timeSeconds: 0
+        length: 1
+  - name: Notes 4
+    type: 0
+    height: 65
+    isExpanded: 1
+    trackData:
+      tag: Notes 4
+      notes:
+      - beat: 14.25
+        timeSeconds: 0
+        length: 1
+      - beat: 18.25
+        timeSeconds: 0
+        length: 1
+      - beat: 21.75
+        timeSeconds: 12.428572
+        length: 1
+      - beat: 22.376667
+        timeSeconds: 0
+        length: 1
+      - beat: 24.355333
+        timeSeconds: 0
+        length: 1
+      - beat: 26.371334
+        timeSeconds: 0
+        length: 1
+      - beat: 28.424667
+        timeSeconds: 0
+        length: 1
+      - beat: 34.36067
+        timeSeconds: 0
+        length: 1
+      - beat: 36.376667
+        timeSeconds: 0
+        length: 1
+      - beat: 38.43
+        timeSeconds: 0
+        length: 1
+      - beat: 40.40867
+        timeSeconds: 0
+        length: 1
+      - beat: 42.424667
+        timeSeconds: 0
+        length: 1
+      - beat: 44.440666
+        timeSeconds: 0
+        length: 1
+      - beat: 46.456665
+        timeSeconds: 0
+        length: 1
+      - beat: 48.435333
+        timeSeconds: 0
+        length: 1
+      - beat: 49.443333
+        timeSeconds: 0
+        length: 1
+      - beat: 50.451332
+        timeSeconds: 0
+        length: 1
+      - beat: 52.467335
+        timeSeconds: 0
+        length: 1
+      - beat: 54.40867
+        timeSeconds: 0
+        length: 1
+      - beat: 56.424667
+        timeSeconds: 0
+        length: 1
+      - beat: 58.478
+        timeSeconds: 0
+        length: 1
+      - beat: 60.494
+        timeSeconds: 0
+        length: 1
+      - beat: 62.472668
+        timeSeconds: 0
+        length: 1
+      - beat: 65.496666
+        timeSeconds: 0
+        length: 1
+      - beat: 66.50467
+        timeSeconds: 0
+        length: 1
+      - beat: 67.438
+        timeSeconds: 0
+        length: 1
+      - beat: 68.446
+        timeSeconds: 0
+        length: 1
+      - beat: 69.416664
+        timeSeconds: 0
+        length: 1
+      - beat: 70.462
+        timeSeconds: 0
+        length: 1
+      - beat: 71.47
+        timeSeconds: 0
+        length: 1
+      - beat: 72.44067
+        timeSeconds: 0
+        length: 1
+      - beat: 73.41133
+        timeSeconds: 0
+        length: 1
+      - beat: 74.419334
+        timeSeconds: 0
+        length: 1
+      - beat: 75.42733
+        timeSeconds: 0
+        length: 1
+  tracks: []

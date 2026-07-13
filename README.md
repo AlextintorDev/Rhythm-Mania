@@ -144,3 +144,4 @@ La configuración principal se encuentra en `Assets/Resources/GameSettings.asset
 - [Feel](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370) por MoreMountains
 - [GameSaveSystem](https://github.com/AlextintorDev/GameSaveSystem-For-Unity) por AlextintorDev
 - [DryWetMIDI](https://github.com/melanchall/drywetmidi) por Melanchall
+- [Rhythm Game Template](https://takabro.itch.io/rhythm-game-temp) por TakaBro
